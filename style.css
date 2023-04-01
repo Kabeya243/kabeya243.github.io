@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto+Mono:wght@700&display=swap');
+body{
+    overflow-x: hidden ;
+}
 .img:hover{
     transform: scale(1.2);
     cursor: pointer;
     transition: .3s;
+}
+footer p{
+}
+h1,h2,h3,.btn{
+    /* font-family: 'Roboto Condensed', sans-serif; */
+    font-family: 'Roboto Mono', monospace;
+}
+p{
+    font-family: 'Roboto Mono', monospace;  
 }
