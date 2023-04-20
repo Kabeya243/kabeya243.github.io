@@ -55,4 +55,6 @@ p{
     grid-template-columns: repeat(auto-fill,300px);
     gap: 15px;
     justify-content: center;
+    align-items: center;
+    margin: 50px auto;
 }
