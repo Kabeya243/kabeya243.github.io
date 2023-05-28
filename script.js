@@ -21,7 +21,7 @@ const works = [
     {
         title:"Personnal porfolio's",
         img:"./img/portfolio1.png",
-        desc:`site web Brutal pure avec un design unique et captivant pour une entreprise de cafe made in africa!`,
+        desc:`site web Personnel pro & pure avec un design unique et captivant pour presenter vos competences au monde et booster votre carriere !`,
         link:"https://kabeya243.github.io",
     },
 ]
